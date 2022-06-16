@@ -2,8 +2,9 @@ package dao;
 
 import java.sql.*;
 import java.util.*;
-import dbutil.DBUtil;
-import pojo.Product;
+
+import VO.Product;
+import dbconnection.DBUtil;
 
 public class ProductManagementDAO {
 	

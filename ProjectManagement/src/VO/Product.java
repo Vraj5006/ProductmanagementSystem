@@ -1,4 +1,4 @@
-package pojo;
+package VO;
 
 public class Product {
 

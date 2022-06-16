@@ -1,5 +1,5 @@
 <%@page import="dao.ProductManagementDAO"%>
-<%@page import="pojo.Product"%>
+<%@page import="VO.Product"%>
 
 <%
 

@@ -1,4 +1,4 @@
-package dbutil;
+package dbconnection;
 
 import java.sql.*;
 

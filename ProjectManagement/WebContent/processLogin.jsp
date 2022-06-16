@@ -1,5 +1,5 @@
 <%@page import="dao.LoginDAO"%>
-<%@page import="pojo.LoginInfo"%>
+<%@page import="VO.LoginInfo"%>
 <%
 
 String userName = request.getParameter("userName");

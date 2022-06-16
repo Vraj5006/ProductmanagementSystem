@@ -4,8 +4,8 @@ import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.Statement;
 
-import dbutil.DBUtil;
-import pojo.LoginInfo;
+import VO.LoginInfo;
+import dbconnection.DBUtil;
 
 public class LoginDAO {
 
